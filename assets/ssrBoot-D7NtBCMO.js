@@ -1,0 +1,1 @@
+import{ab as t,C as e,X as s,bt as n}from"./index-BMSMs7ch.js";function i(){const o=t(!1);return e(()=>{window.requestAnimationFrame(()=>{o.value=!0})}),{ssrBootStyles:s(()=>o.value?void 0:{transition:"none !important"}),isBooted:n(o)}}export{i as u};
