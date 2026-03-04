@@ -1,0 +1,1 @@
+import{bt as t}from"./index-DiVNhS2r.js";const i="/SerieBNew/assets/logoprdconleyenda-Cm0pEiXj.png",a=t({message:"",show:!1,type:"info",showMessage(s,e="info"){this.message=s,this.type=e,this.show=!0,setTimeout(()=>{this.show=!1,this.message=""},3e3)}});export{i as _,a as p};
